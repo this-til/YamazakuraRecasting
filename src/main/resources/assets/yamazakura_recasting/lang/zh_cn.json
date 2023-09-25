@@ -1,0 +1,66 @@
+{
+
+  "yamazakura_recasting.aio_slash_blade_register": "山樱「葵」",
+  "yamazakura_recasting.aio_slash_blade_register.desc": "古代工匠的佳作，象征着那如向日葵版阳光的已故少女。",
+  "yamazakura_recasting.aio_slash_blade_register.material": "葵拵",
+
+  "yamazakura_recasting.fumizuki_slash_blade_register": "山樱「文月」",
+  "yamazakura_recasting.fumizuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好七月的华美太刀。",
+  "yamazakura_recasting.fumizuki_slash_blade_register.material": "文月拵",
+
+  "yamazakura_recasting.hazuki_slash_blade_register": "山樱「叶月」",
+  "yamazakura_recasting.hazuki_slash_blade_register.desc": "古代工匠的佳作，象征着八月的华美太刀。",
+  "yamazakura_recasting.hazuki_slash_blade_register.material": "叶月拵",
+
+  "yamazakura_recasting.kamuytuki_slash_blade_register": "山樱「神月」",
+  "yamazakura_recasting.kamuytuki_slash_blade_register.desc": "古代工匠的佳作，象征着虚幻的第十三月的华美太刀。信仰是为虚幻之人。",
+  "yamazakura_recasting.kamuytuki_slash_blade_register.material": "山樱拵",
+  "yamazakura_recasting.spatial_earthquake_sa": "空间震",
+  "yamazakura_recasting.spatial_earthquake_sa.introduce": "召唤剑雨进行攻击",
+
+  "yamazakura_recasting.kannazuki_slash_blade_register": "山樱「神无月」枫",
+  "yamazakura_recasting.kannazuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好十月的华美太刀。",
+  "yamazakura_recasting.kannazuki_slash_blade_register.material": "神无月拵",
+  "yamazakura_recasting.kannazuki_sa": "无月",
+  "yamazakura_recasting.kannazuki_sa.introduce": "召唤次元斩进行攻击，在次元斩存在期间不断产生剑气造成更过伤害 ",
+
+  "yamazakura_recasting.kisaragi_slash_blade_register": "山樱「如月」梅",
+  "yamazakura_recasting.kisaragi_slash_blade_register.desc": "古代工匠的佳作，象征着美好二月的华美太刀。",
+  "yamazakura_recasting.kisaragi_slash_blade_register.material": "如月拵",
+
+  "yamazakura_recasting.minazuki_slash_blade_register": "山樱「水无月」",
+  "yamazakura_recasting.minazuki_slash_blade_register.desc": "古代工匠的佳作，象征着六月的华美太刀。",
+  "yamazakura_recasting.minazuki_slash_blade_register.material": "水无月拵",
+
+  "yamazakura_recasting.mutsuki_slash_blade_register": "山樱「睦月」松",
+  "yamazakura_recasting.mutsuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好一月的华美太刀。",
+  "yamazakura_recasting.mutsuki_slash_blade_register.material": "睦月拵",
+
+  "yamazakura_recasting.nagatsuki_slash_blade_register": "山樱「长月」菊",
+  "yamazakura_recasting.nagatsuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好九月的华美太刀。",
+  "yamazakura_recasting.nagatsuki_slash_blade_register.material": "长月拵",
+
+  "yamazakura_recasting.satsuki_slash_blade_register": "山樱「皋月」",
+  "yamazakura_recasting.satsuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好五月的华美太刀。",
+  "yamazakura_recasting.satsuki_slash_blade_register.material": "皋月拵",
+
+  "yamazakura_recasting.shimotsuki_slash_blade_register": "山樱「霜月」",
+  "yamazakura_recasting.shimotsuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好十一月的华美太刀。",
+  "yamazakura_recasting.shimotsuki_slash_blade_register.material": "霜月拵",
+
+  "yamazakura_recasting.shiwasu_slash_blade_register": "山樱「师走」",
+  "yamazakura_recasting.shiwasu_slash_blade_register.desc": "古代工匠的佳作，象征着离别十二月的华美太刀。",
+  "yamazakura_recasting.shiwasu_slash_blade_register.material": "师走拵",
+
+  "item.slashblade.yamazakura.shiwasu": "山樱「师走」",
+  "item.slashblade.yamazakura.shiwasu.desc": "古代工匠的佳作，象征着离别十二月的华美太刀。",
+  "item.slashblade.yamazakura.shiwasu.material": "师走拵",
+
+  "yamazakura_recasting.uzuki_slash_blade_register": "山樱「卯月」",
+  "yamazakura_recasting.uzuki_slash_blade_register.desc": "古代工匠的佳作，象征着美好四月的华美太刀。",
+  "yamazakura_recasting.uzuki_slash_blade_register.material": "卯月拵",
+
+  "yamazakura_recasting.yayoi_slash_blade_register": "山樱「弥生」樱",
+  "yamazakura_recasting.yayoi_slash_blade_register.desc": "古代工匠的佳作，象征着樱花盛开的凄美三月的华美太刀。落樱之美转瞬即逝。",
+  "yamazakura_recasting.yayoi_slash_blade_register.material": "弥生拵"
+}
